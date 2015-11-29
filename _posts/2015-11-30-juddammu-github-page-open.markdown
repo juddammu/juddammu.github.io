@@ -5,17 +5,13 @@ date:   2015-11-30 00:55:37
 categories: jekyll update
 ---
 
-###**Juddammu's Github page open!!** 
-Posted on 2015-11-30 by juddammu
-
----
-
 ####**1. GitHub Pages를 해보다.**
 우연히 GitHub Page 에 대해 관심을 가지게 되었다. 사실 웹서핑을 하면서
 
 많은 개발자들의 사이트가 GitHub Page로 되어 있다는걸 알고 있었다.
 
 **'관심'** 이란건 본인이 직접 뛰어들지 않는한 흘러가는 것에 불과한 것 같다.
+
 
 ####**2. Github page 특징**
 1)무료다.
@@ -25,6 +21,7 @@ Posted on 2015-11-30 by juddammu
 3)정적이다.
 
 4)Github 을 사용한다.
+
 
 ####**3. 알아가야 할 것들**
 1) GitHub
@@ -50,3 +47,6 @@ Posted on 2015-11-30 by juddammu
 -[**Github help**: Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/)
 
 -[**놀부**: 지킬로 깃허브에 무료 블로그 만들기 ](https://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/)
+
+####**6. Editor**
+-[**stack edit**](https://stackedit.io/editor)
