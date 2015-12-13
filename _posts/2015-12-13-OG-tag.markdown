@@ -16,7 +16,8 @@ Posted on 2015-12-14 by juddammu
 
 구글에 찾아보니 Facebook에서 만든 [**Open Graph protocol**](http://ogp.me/) 로 나온다.
 대략 설명은...
-    
+
+
 >**"어느 웹페이지 이던 페이스북에서 페이스북의 다른 개체와 같은 
 기능을 갖도록 하는데 사용된다."**  
 >"For instance, this is used on Facebook to allow 
