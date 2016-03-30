@@ -30,7 +30,7 @@ default 로 로그 파일만이 선택 되어 있었는데,  보안이슈로 인
 
 [ETW](https://msdn.microsoft.com/en-us/library/windows/desktop/aa363668(v=vs.85).aspx) 는 Event Tracing for Windows 즉 윈도우를 위한 이벤트 추적 이라고 한다. 
 
-<img src="../data/img/iis_server_log.png" align=left>
+<img src="../data/img/iis_server_log.PNG" align=left>
 
 
 
