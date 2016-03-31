@@ -5,4 +5,4 @@ date:   2016-03-31 02:26:00
 categories: jekyll update
 ---
 
-<p style="color:red;">관심사</p>
+<p style="color:red">관심사</p>
