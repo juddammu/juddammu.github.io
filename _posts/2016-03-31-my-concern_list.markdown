@@ -6,3 +6,13 @@ categories: jekyll update
 ---
 
 <p style="color:red">관심사</p>
+
+1. DEV
+    - front-end
+    - php & codeignither
+    - server envieroment
+    - web trend [react](https://facebook.github.io/react/), [lodash](https://lodash.com/)
+    - Software development process
+2. Design
+    - CSS & HTML
+    - Wed deisgn technique
