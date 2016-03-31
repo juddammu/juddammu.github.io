@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "IIS Server Log 위치"
-date:   2016-03-30 13:00:00
+date:   2016-03-31 16:00:00
 categories: jekyll update
 ---
 
 
 **IIS Server Log** 
-Posted on 2016-03-30 by juddammu
+Posted on 2016-03-31 by juddammu
 
 IIS 서버를 처음 접하다 보니 로그가 어디에 쌓이고 있는지 확인할 필요가 있었다.
 
