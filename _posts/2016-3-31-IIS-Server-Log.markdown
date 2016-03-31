@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IIS Server Log 위치"
+title:  "IIS Server Log"
 date:   2016-3-31 15:00:00
 categories: jekyll update
 ---
