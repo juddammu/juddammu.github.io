@@ -1,4 +1,4 @@
-##**차준영 Portfolio**
+##**차준영 Portfolio**##
 
 ###**<i class="icon-file"></i> 기본 정보**###
 -------------
@@ -57,7 +57,7 @@ http://www.sijangtong.or.kr/nation.do
 Lg U+ SMS 전송API 이용 SMS 발송 서비스 개발
 
  **KT MVNO KPM 고도화 개발 및 유지보수**
-**2013-10-21 ~ 현재**
+**2013-10-21 ~ 2015-12-31**
 
 **<i class="icon-hdd"></i>개발기술 및 개발환경**
 -**Tool:** Eclipse
@@ -69,6 +69,21 @@ Lg U+ SMS 전송API 이용 SMS 발송 서비스 개발
 KT MVNO KPM 서비스 프론트 엔드 개발 및 내부 로직 개발
 
 https://ktmvno.kt.com/
+
+
+**부루다콘서트 서비스 고도화 개발 및 유지보수**
+**2016-01-01 ~ 2017-04-30**
+
+**<i class="icon-hdd"></i>개발기술 및 개발환경**
+-**Tool:** Eclipse
+-**언어:** PHP, Javascript, Jquery, xml, Ajax
+-**DB:** MySql
+-**Server:** Ubuntu Server
+-**역할:** 
+개발팀 담당자로 기 개발된 웹서비스와 신규 개발한 모바일웹 서비스 고도화 진행 및 유지보수.
+
+PC: 		http://www.burudaconcert.com/
+Mobile: http://m.burudaconcert.com/
 
 ---
 
