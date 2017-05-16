@@ -27,7 +27,7 @@
 - **역할:** 
 모바일 면세점 서비스 화면 UI 기획 및 개발
 
-http://m-china.lottedfs.com
+<http://m-china.lottedfs.com/>
 
 **2. 시장경영진흥원 대국민 포털 개발**
 
@@ -44,7 +44,7 @@ http://m-china.lottedfs.com
 시장경영진흥원 전통시장 통통 대국민 포털 서비스 프론트 엔드 개발
 
 
-http://www.sijangtong.or.kr/nation.do
+<http://www.sijangtong.or.kr/nation.do/>
 
 **3. 롯데 차세대면세점 EC구축 사업**
 
@@ -73,7 +73,7 @@ Lg U+ SMS 전송API 이용 SMS 발송 서비스 개발
 - **역할:** 
 KT MVNO KPM 서비스 프론트 엔드 개발 및 내부 로직 개발
 
-https://ktmvno.kt.com/
+<https://ktmvno.kt.com/>
 
 
 **5. 부루다콘서트 서비스 고도화 개발 및 유지보수**
@@ -88,9 +88,9 @@ https://ktmvno.kt.com/
 - **역할:** 
 개발팀 담당자로 기 개발된 웹서비스와 신규 개발한 모바일웹 서비스 고도화 진행 및 유지보수.
 
-PC: 		http://www.burudaconcert.com/
+PC: 		<http://www.burudaconcert.com/>
 
-Mobile: http://m.burudaconcert.com/
+Mobile: <http://m.burudaconcert.com/>
 
 ---
 
