@@ -1,0 +1,76 @@
+##**차준영 Portfolio**
+
+###**<i class="icon-file"></i> 기본 정보**###
+-------------
+**학력**
+- **2006 ~ 2013** : 공주대학교 천안캠퍼스 컴퓨터소프트웨어공학전공 4년제 졸업
+
+**경력**
+- **2012-10-15 ~ 현재** : (주)아이온커뮤니케이션즈 재직중
+
+**교육이수**
+- **2012-09 ~ 2012-12** : KT 에코노베이션 안드로이드 APP개발 과정(광화문 KT 에코노베이션 센터)
+###**<i class="icon-pencil"></i>경력 사항**###
+-------------
+**1. 롯데면세점 중문 모바일 서비스 개발**
+**2012-10-05 ~ 2013-04-10**
+
+
+**<i class="icon-hdd"></i>개발기술 및 개발환경**
+-**Tool:** Eclipse
+-**Fraomework:** Spring framework
+-**언어:** Java, Jsp, javascript, jquery mobile 
+-**DB:** Oracle 10g Release 2
+-**Server:** Tomacat 7.0
+-**역할:** 
+모바일 면세점 서비스 화면 UI 기획 및 개발
+
+http://m-china.lottedfs.com
+
+**2) 시장경영진흥원 대국민 포털 개발**
+**2013-04-15 ~ 2013-06-19**
+
+
+**<i class="icon-hdd"></i>개발기술 및 개발환경**
+-**Tool:** Eclipse
+-**Fraomework:** Spring framework
+-**언어:** Java, Jsp, javascript, jquery, xml 
+-**DB:** MYSQL Cluster 7.2.8
+-**Server:** Tomacat 7.0.32
+-**역할:** 
+시장경영진흥원 전통시장 통통 대국민 포털 서비스 프론트 엔드 개발
+
+
+http://www.sijangtong.or.kr/nation.do
+
+**3) 롯데 차세대면세점 EC구축 사업**
+**2013-06-24 ~ 2013-10-18**
+
+**<i class="icon-hdd"></i>개발기술 및 개발환경**
+-**Tool:** Spring Tool Suit, Maven, Hibernate, Git
+-**Fraomework:** Spring Framework
+-**언어:** Java, Jsp, javascript, jquery, xml 
+-**DB:** Oracle 11g Release 2
+-**Server:** Tomacat 7.0
+-**역할:** 
+롯데 면세점 외부 연동 API 중계서비스 개발 
+Lg U+ SMS 전송API 이용 SMS 발송 서비스 개발
+
+ **KT MVNO KPM 고도화 개발 및 유지보수**
+**2013-10-21 ~ 현재**
+
+**<i class="icon-hdd"></i>개발기술 및 개발환경**
+-**Tool:** Eclipse
+-**Fraomework:** Spring framework and struts2
+-**언어:** Java, Jsp, Javascript, Jquery, xml 
+-**DB:** Oracle 10g Release 2
+-**Server:** Tomacat 7.0
+-**역할:** 
+KT MVNO KPM 서비스 프론트 엔드 개발 및 내부 로직 개발
+
+https://ktmvno.kt.com/
+
+---
+
+> 
+> **"Coder가 아닌 개발을 할 줄 아는 Programmer 가 되고자 노력하겠습니다."**
