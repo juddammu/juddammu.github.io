@@ -84,7 +84,7 @@ KT MVNO KPM 서비스 프론트 엔드 개발 및 내부 로직 개발
 - **Tool:** Eclipse
 - **언어:** PHP, Javascript, Jquery, xml, Ajax
 - **DB:** MySql
-- **Server:** Ubuntu Server
+- **Server:** AWS EC2 Ubuntu Server
 - **역할:** 
 개발팀 담당자로 기 개발된 웹서비스와 신규 개발한 모바일웹 서비스 고도화 진행 및 유지보수.
 
