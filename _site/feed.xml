@@ -1,42 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 23 May 2017 11:38:55 +0900</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 11:38:55 +0900</lastBuildDate>
+    <title>juddammu의 github page</title>
+    <description></description>
+    <link>http://juddammu.github.io/</link>
+    <atom:link href="http://juddammu.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 23 May 2017 12:39:05 +0900</pubDate>
+    <lastBuildDate>Tue, 23 May 2017 12:39:05 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 23 May 2017 20:34:21 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2017/05/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/05/23/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
     
       <item>
         <title>Portfolio</title>
@@ -141,10 +112,14 @@ KT MVNO KPM 서비스 프론트 엔드 개발 및 내부 로직 개발
   &lt;p&gt;&lt;strong&gt;“Coder가 아닌 개발을 할 줄 아는 Programmer 가 되고자 노력하겠습니다.”&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 16 May 2017 00:00:00 +0900</pubDate>
-        <link>http://yourdomain.com/2017/05/16/portfolio.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2017/05/16/portfolio.html</guid>
+        <pubDate>Thu, 18 May 2017 22:26:00 +0900</pubDate>
+        <link>http://juddammu.github.io/jekyll/update/2017/05/18/portfolio.html</link>
+        <guid isPermaLink="true">http://juddammu.github.io/jekyll/update/2017/05/18/portfolio.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
@@ -182,8 +157,8 @@ Posted on 2016-3-31 by juddammu&lt;/p&gt;
 &lt;p&gt;&amp;lt;img src=”../data/img/iis_server_log.PNG” align=left&amp;gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Apr 2016 00:00:00 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/04/01/IIS-Server-Log.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/04/01/IIS-Server-Log.html</guid>
+        <link>http://juddammu.github.io/jekyll/update/2016/04/01/IIS-Server-Log.html</link>
+        <guid isPermaLink="true">http://juddammu.github.io/jekyll/update/2016/04/01/IIS-Server-Log.html</guid>
         
         
         <category>jekyll</category>
@@ -215,8 +190,8 @@ Posted on 2016-3-31 by juddammu&lt;/p&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 31 Mar 2016 11:26:00 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/03/31/my-concern_list.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/31/my-concern_list.html</guid>
+        <link>http://juddammu.github.io/jekyll/update/2016/03/31/my-concern_list.html</link>
+        <guid isPermaLink="true">http://juddammu.github.io/jekyll/update/2016/03/31/my-concern_list.html</guid>
         
         
         <category>jekyll</category>
@@ -250,8 +225,8 @@ as any other object on Facebook.”&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 14 Dec 2015 11:26:00 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/12/14/OG-tag.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/14/OG-tag.html</guid>
+        <link>http://juddammu.github.io/jekyll/update/2015/12/14/OG-tag.html</link>
+        <guid isPermaLink="true">http://juddammu.github.io/jekyll/update/2015/12/14/OG-tag.html</guid>
         
         
         <category>jekyll</category>
@@ -324,36 +299,8 @@ as any other object on Facebook.”&lt;/p&gt;
   -&lt;a href=&quot;https://stackedit.io/editor&quot;&gt;&lt;strong&gt;stack edit&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Nov 2015 10:15:37 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/11/30/juddammu-github-page-open.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/30/juddammu-github-page-open.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 25 Nov 2015 10:29:37 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/11/25/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/25/welcome-to-jekyll.html</guid>
+        <link>http://juddammu.github.io/jekyll/update/2015/11/30/juddammu-github-page-open.html</link>
+        <guid isPermaLink="true">http://juddammu.github.io/jekyll/update/2015/11/30/juddammu-github-page-open.html</guid>
         
         
         <category>jekyll</category>
