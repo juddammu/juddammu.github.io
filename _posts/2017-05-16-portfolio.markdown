@@ -3,6 +3,7 @@ layout: post
 title:  "Portfolio"
 date:   2017-05-18 13:26:00
 categories: jekyll update
+author: juddammu
 ---
 **차준영 Portfolio**
 

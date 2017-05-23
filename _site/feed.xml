@@ -5,8 +5,8 @@
     <description></description>
     <link>http://juddammu.github.io/</link>
     <atom:link href="http://juddammu.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 23 May 2017 12:39:05 +0900</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 12:39:05 +0900</lastBuildDate>
+    <pubDate>Tue, 23 May 2017 23:41:40 +0900</pubDate>
+    <lastBuildDate>Tue, 23 May 2017 23:41:40 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -154,7 +154,7 @@ Posted on 2016-3-31 by juddammu&lt;/p&gt;
 
 &lt;p&gt;ETW는 &lt;strong&gt;Event Tracing for Windows&lt;/strong&gt; 즉 윈도우를 위한 이벤트 추적 이라고 한다. &lt;/p&gt;
 
-&lt;p&gt;&amp;lt;img src=”../data/img/iis_server_log.PNG” align=left&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=”/data/img/iis_server_log.PNG” align=left&amp;gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Apr 2016 00:00:00 +0900</pubDate>
         <link>http://juddammu.github.io/jekyll/update/2016/04/01/IIS-Server-Log.html</link>

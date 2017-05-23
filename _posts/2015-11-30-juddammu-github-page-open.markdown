@@ -3,6 +3,7 @@ layout: post
 title:  "Juddammu's Github page open!!"
 date:   2015-11-30 01:15:37
 categories: jekyll update
+author: juddammu
 ---
 
 **1. GitHub Pages를 해보다.**

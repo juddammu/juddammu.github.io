@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img width="100" src="/data/img/me.png" >
 
 **간단 소개**
 

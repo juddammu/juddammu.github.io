@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: tag
 title:  "OG tag"
 date:   2015-12-14 02:26:00
 categories: jekyll update
+author: juddammu
 ---
 
 **OG tag** 
