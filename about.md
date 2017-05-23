@@ -4,8 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+ <i class="icon-file"></i> 간단 소개
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+ '웹프로그래머' 라 부르는 **차준영**의 github page 입니다.
+
+SI 업체 > 스타트업 을 거치면서 java / PHP / javascript / Mysql / css / html5 / AWS / Spring Framework ... 
+약간의 지식을 갖추고 있습니다. 
+
+---
+<i class="icon-folder-open"></i> 현재 관심사
+
+- Angular 2 / typescript
+- 3d printer / IOT device
+- 육아
+- 스킨스쿠버다이빙 / 여행
+
+저는 이메일로 소통하고 있습니다. [juddammus@gmail.com](mailto:juddammus@gmail.com) 으로 연락 주세요!
+
+> **juddammu** 는 중딩때 불어 **je t'aime**를 발음대로 만든 계정입니다.
