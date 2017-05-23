@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
- <i class="icon-file"></i> 간단 소개
+**간단 소개**
 
  '웹프로그래머' 라 부르는 **차준영**의 github page 입니다.
 
@@ -14,7 +14,7 @@ SI 업체 > 스타트업 을 거치면서 java / PHP / javascript / mysql / css 
 
 ---
 
-<i class="icon-folder-open"></i> 현재 관심사
+**현재 관심사**
 
 - Angular 2 / typescript
 - 3d printer / IOT device
