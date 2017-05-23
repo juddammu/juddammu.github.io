@@ -12,7 +12,6 @@ SI 업체 > 스타트업 을 거치면서 java / PHP / javascript / mysql / css 
 
 약간의 지식을 갖추고 있습니다. 
 
----
 
 **현재 관심사**
 
