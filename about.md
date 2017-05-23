@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-
  <i class="icon-file"></i> 간단 소개
 
  '웹프로그래머' 라 부르는 **차준영**의 github page 입니다.
 
-SI 업체 > 스타트업 을 거치면서 java / PHP / javascript / Mysql / css / html5 / AWS / Spring Framework ... 
+SI 업체 > 스타트업 을 거치면서 java / PHP / javascript / mysql / css / html5 ... 
 약간의 지식을 갖추고 있습니다. 
 
 ---

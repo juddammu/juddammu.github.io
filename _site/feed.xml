@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 23 May 2017 11:38:55 +0900</pubDate>
+    <lastBuildDate>Tue, 23 May 2017 11:38:55 +0900</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 May 2017 20:34:21 +0900</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2017/05/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/05/23/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Portfolio</title>
+        <description>&lt;p&gt;&lt;strong&gt;차준영 Portfolio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;i-classicon-filei-&quot;&gt;&lt;strong&gt;&lt;i class=&quot;icon-file&quot;&gt;&lt;/i&gt;기본 정보&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;학력&lt;/strong&gt;
+- &lt;strong&gt;2006 ~ 2013&lt;/strong&gt; : 공주대학교 천안캠퍼스 컴퓨터소프트웨어공학전공 4년제 졸업&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;경력&lt;/strong&gt;
+- &lt;strong&gt;2012-10-15 ~ 2016-01-06 : (주)아이온커뮤니케이션즈 근무&lt;/strong&gt;
+- &lt;strong&gt;2016-01-11 ~ 2017-04-30 : 플레이메이커스튜디오(주) 근무&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;교육이수&lt;/strong&gt;
+- &lt;strong&gt;2012-09 ~ 2012-12&lt;/strong&gt; : KT 에코노베이션 안드로이드 APP개발 과정(광화문 KT 에코노베이션 센터)&lt;/p&gt;
+
+&lt;h2 id=&quot;i-classicon-pencili-&quot;&gt;&lt;strong&gt;&lt;i class=&quot;icon-pencil&quot;&gt;&lt;/i&gt;경력 사항&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 아이온커뮤니케이션즈 - 롯데면세점 중문 모바일 서비스 개발&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2012-10-05 ~ 2013-04-10&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;i class=&quot;icon-hdd&quot;&gt;&lt;/i&gt;개발기술 및 개발환경&lt;/strong&gt;
+- &lt;strong&gt;Tool:&lt;/strong&gt; Eclipse
+- &lt;strong&gt;Fraomework:&lt;/strong&gt; Spring framework
+- &lt;strong&gt;언어:&lt;/strong&gt; Java, Jsp, javascript, jquery mobile 
+- &lt;strong&gt;DB:&lt;/strong&gt; Oracle 10g Release 2
+- &lt;strong&gt;Server:&lt;/strong&gt; Tomacat 7.0
+- &lt;strong&gt;역할:&lt;/strong&gt; 
+모바일 면세점 서비스 화면 UI 기획 및 개발
+- &lt;strong&gt;참여율: 25%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://m-china.lottedfs.com/&quot;&gt;http://m-china.lottedfs.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 아이온커뮤니케이션즈 - 시장경영진흥원 대국민 포털 개발&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2013-04-15 ~ 2013-06-19&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;i class=&quot;icon-hdd&quot;&gt;&lt;/i&gt;개발기술 및 개발환경&lt;/strong&gt;
+- &lt;strong&gt;Tool:&lt;/strong&gt; Eclipse
+- &lt;strong&gt;Fraomework:&lt;/strong&gt; Spring framework
+- &lt;strong&gt;언어:&lt;/strong&gt; Java, Jsp, javascript, jquery, xml 
+- &lt;strong&gt;DB:&lt;/strong&gt; MYSQL Cluster 7.2.8
+- &lt;strong&gt;Server:&lt;/strong&gt; Tomacat 7.0.32
+- &lt;strong&gt;역할:&lt;/strong&gt; 
+시장경영진흥원 전통시장 통통 대국민 포털 서비스 프론트 엔드 개발
+- &lt;strong&gt;참여율: 33%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sijangtong.or.kr/nation.do/&quot;&gt;http://www.sijangtong.or.kr/nation.do/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 아이온커뮤니케이션즈 - 롯데 차세대면세점 EC구축 사업&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2013-06-24 ~ 2013-10-18&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;i class=&quot;icon-hdd&quot;&gt;&lt;/i&gt;개발기술 및 개발환경&lt;/strong&gt;
+- &lt;strong&gt;Tool:&lt;/strong&gt; Spring Tool Suit, Maven, Hibernate, Git
+- &lt;strong&gt;Fraomework:&lt;/strong&gt; Spring Framework
+- &lt;strong&gt;언어:&lt;/strong&gt; Java, Jsp, javascript, jquery, xml 
+- &lt;strong&gt;DB:&lt;/strong&gt; Oracle 11g Release 2
+- &lt;strong&gt;Server:&lt;/strong&gt; Tomacat 7.0
+- &lt;strong&gt;역할:&lt;/strong&gt; 
+롯데 면세점 외부 연동 API 중계서비스 개발 
+Lg U+ SMS 전송API 이용 SMS 발송 서비스 개발
+- &lt;strong&gt;참여율: 25%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. 아이온커뮤니케이션즈 - KT MVNO KPM 고도화 개발 및 유지보수&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2013-10-21 ~ 2016-01-06&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;i class=&quot;icon-hdd&quot;&gt;&lt;/i&gt;개발기술 및 개발환경&lt;/strong&gt;
+- &lt;strong&gt;Tool:&lt;/strong&gt; Eclipse
+- &lt;strong&gt;Fraomework:&lt;/strong&gt; Spring framework and struts2
+- &lt;strong&gt;언어:&lt;/strong&gt; Java, Jsp, Javascript, Jquery, xml 
+- &lt;strong&gt;DB:&lt;/strong&gt; Oracle 10g Release 2
+- &lt;strong&gt;Server:&lt;/strong&gt; Tomacat 7.0
+- &lt;strong&gt;역할:&lt;/strong&gt; 
+KT MVNO KPM 서비스 프론트 엔드 개발 및 내부 로직 개발
+- &lt;strong&gt;참여율: 33%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ktmvno.kt.com/&quot;&gt;https://ktmvno.kt.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. 플레이메이커스튜디오 - 부루다콘서트 서비스 고도화 개발 및 유지보수&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2016-01-11 ~ 2017-04-30&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;i class=&quot;icon-hdd&quot;&gt;&lt;/i&gt;개발기술 및 개발환경&lt;/strong&gt;
+- &lt;strong&gt;Tool:&lt;/strong&gt; Eclipse
+- &lt;strong&gt;언어:&lt;/strong&gt; PHP, Javascript, Jquery, xml, Ajax
+- &lt;strong&gt;DB:&lt;/strong&gt; MySql
+- &lt;strong&gt;Server:&lt;/strong&gt; AWS EC2 Ubuntu Server
+- &lt;strong&gt;역할:&lt;/strong&gt; 
+개발팀 담당자로 기 개발된 웹서비스와 신규 개발한 모바일웹 서비스 고도화 진행 및 유지보수.
+- &lt;strong&gt;참여율: 100%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;PC: 		&lt;a href=&quot;http://www.burudaconcert.com/&quot;&gt;http://www.burudaconcert.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mobile: &lt;a href=&quot;http://m.burudaconcert.com/&quot;&gt;http://m.burudaconcert.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+
+  &lt;p&gt;&lt;strong&gt;“Coder가 아닌 개발을 할 줄 아는 Programmer 가 되고자 노력하겠습니다.”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 16 May 2017 00:00:00 +0900</pubDate>
+        <link>http://yourdomain.com/2017/05/16/portfolio.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2017/05/16/portfolio.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>IIS Server Log</title>
+        <description>&lt;p&gt;&lt;strong&gt;IIS Server Log&lt;/strong&gt; 
+Posted on 2016-3-31 by juddammu&lt;/p&gt;
+
+&lt;p&gt;IIS 서버를 처음 접하다 보니 로그가 어디에 쌓이고 있는지 확인할 필요가 있었다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;%SystemDrive%\inetpub\logs\LogFiles&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;여기서  &lt;strong&gt;%SystemDrive%&lt;/strong&gt; 는 &lt;strong&gt;C 드라이브&lt;/strong&gt;를 말한다.&lt;/p&gt;
+
+&lt;p&gt;IIS(인터넷 정보서비스)관리자 에서 자신의 서버를 선택하면 서버 홈에&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘로깅’&lt;/strong&gt; 이 있다. 선택하여 들어가면 로그파일에 대해 설정할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;로그 이벤트 대상을 아래와 같다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;로그 파일만(L)&lt;/li&gt;
+  &lt;li&gt;ETW 이벤트만(T)&lt;/li&gt;
+  &lt;li&gt;로그 파일과 ETW 이벤트 모두(A)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;default 로 로그 파일만이 선택 되어 있었는데,  보안이슈로 인해서&lt;/p&gt;
+
+&lt;p&gt;로그 파일과 ETW 이벤트 모드 쌓도록 설정하였다.&lt;/p&gt;
+
+&lt;p&gt;ETW는 &lt;strong&gt;Event Tracing for Windows&lt;/strong&gt; 즉 윈도우를 위한 이벤트 추적 이라고 한다. &lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=”../data/img/iis_server_log.PNG” align=left&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Apr 2016 00:00:00 +0900</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/04/01/IIS-Server-Log.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/04/01/IIS-Server-Log.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>2016-03-31 관심사 정리</title>
+        <description>&lt;p style=&quot;color:red&quot;&gt;관심사&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;DEV
+    &lt;ul&gt;
+      &lt;li&gt;front-end&lt;/li&gt;
+      &lt;li&gt;php &amp;amp; codeignither&lt;/li&gt;
+      &lt;li&gt;server envieroment&lt;/li&gt;
+      &lt;li&gt;web trend &lt;a href=&quot;https://facebook.github.io/react/&quot;&gt;react&lt;/a&gt;, &lt;a href=&quot;https://lodash.com/&quot;&gt;lodash&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Software development process&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Design
+    &lt;ul&gt;
+      &lt;li&gt;CSS &amp;amp; HTML&lt;/li&gt;
+      &lt;li&gt;Wed deisgn technique&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 31 Mar 2016 11:26:00 +0900</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/03/31/my-concern_list.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/31/my-concern_list.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>OG tag</title>
+        <description>&lt;p&gt;&lt;strong&gt;OG tag&lt;/strong&gt; 
+Posted on 2015-12-14 by juddammu&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wooeng.com&quot;&gt;&lt;strong&gt;바보요정 웽&lt;/strong&gt;&lt;/a&gt;이라는 웹툰을 보다가 공식 사이트에 들어가게 되었다.&lt;/p&gt;
+
+&lt;p&gt;사이트가 재미있게 꾸며져 있어서 메일로 어떻게 만든건지 물어봤다.
+개발자 도구로 보니 meta tag에 &lt;strong&gt;og:&lt;/strong&gt; 로 시작하는  tag 를 발견했다.&lt;/p&gt;
+
+&lt;p&gt;구글에 찾아보니 Facebook에서 만든 &lt;a href=&quot;http://ogp.me/&quot;&gt;&lt;strong&gt;Open Graph protocol&lt;/strong&gt;&lt;/a&gt; 로 나온다.
+대략 설명은…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“어느 웹페이지 이던 페이스북에서 페이스북의 다른 개체와 같은 
+기능을 갖도록 하는데 사용된다.”&lt;/strong&gt;&lt;br /&gt;
+“For instance, this is used on Facebook to allow 
+any web page to have the same functionality 
+as any other object on Facebook.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;라고 멋대로 번역 그리고 멋대로 이해…&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 14 Dec 2015 11:26:00 +0900</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/12/14/OG-tag.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/14/OG-tag.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Juddammu&#39;s Github page open!!</title>
+        <description>&lt;p&gt;&lt;strong&gt;1. GitHub Pages를 해보다.&lt;/strong&gt;
+우연히 GitHub Page 에 대해 관심을 가지게 되었다. 사실 웹서핑을 하면서&lt;/p&gt;
+
+&lt;p&gt;많은 개발자들의 사이트가 GitHub Page로 되어 있다는걸 알고 있었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘관심’&lt;/strong&gt; 이란건 본인이 직접 뛰어들지 않는한 흘러가는 것에 불과한 것 같다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Github page 특징&lt;/strong&gt;
+  1. 무료다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;쉽다?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;정적이다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Github 을 사용한다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 알아가야 할 것들&lt;/strong&gt;
+  1. GitHub&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jekyll&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markdown&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;liquid
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;4. 계획&lt;/strong&gt;
+  1. 개인 블로그로 활용&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;아내의 Idea 포스팅 사이트로 활용
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;5. 참고사이트&lt;/strong&gt;
+  -&lt;a href=&quot;http://ilmol.com/2015/01/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EC%97%90%EC%84%9C%20Jekyll%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98.html#fn6&quot;&gt;&lt;strong&gt;일몰&lt;/strong&gt;: 난 10년된 워드프레스에서 Jekyll로 마이그레이션&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&quot;http://blog.saltfactory.net/jekyll/upgrade-github-pages-dependency-versions.html&quot;&gt;&lt;strong&gt;saltfactory’s blog&lt;/strong&gt;: Jekyll을 사용하여 GitHub Pages 만들기&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&quot;https://help.github.com/articles/using-jekyll-with-pages/&quot;&gt;&lt;strong&gt;Github help&lt;/strong&gt;: Using Jekyll with Pages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&quot;https://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/&quot;&gt;&lt;strong&gt;놀부&lt;/strong&gt;: 지킬로 깃허브에 무료 블로그 만들기 &lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Editor&lt;/strong&gt;
+  -&lt;a href=&quot;https://stackedit.io/editor&quot;&gt;&lt;strong&gt;stack edit&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Nov 2015 10:15:37 +0900</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/11/30/juddammu-github-page-open.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/30/juddammu-github-page-open.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Nov 2015 10:29:37 +0900</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/11/25/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/25/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
